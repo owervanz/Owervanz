@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Robert!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20AI%20Integration%20Specialist&descAlignY=51&descAlign=62" width="100%"/>
 
-### 🚀 Network Engineer & Real-World AI Integration Specialist
+### 🚀 Bridging the unseen infrastructure with the intelligence of tomorrow.
 
-I'm a seasoned Data Network Engineer leveraging my deep infrastructure knowledge to build scalable, intelligent AI systems and applications. While I appreciate a solid network topology, **I am currently focused on integrating advanced Artificial Intelligence models to solve actual problems and automate complex processes.**
+I transitioned from routing packets across global networks to routing logic through Neural Networks and LLMs. **I build autonomous, end-to-end AI systems** where solid backend architecture meets cutting-edge machine learning.
 
 🎓 **Incoming AI Diploma Student at PUC** (Pontificia Universidad Católica de Chile) - *Specializing in AI models, Ethics, and Audio/Video AI analysis.*
 
