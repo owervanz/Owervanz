@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Robert!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20AI%20Integration%20Specialist&descAlignY=51&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Robert!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20AI%20%20Specialist&descAlignY=51&descAlign=62" width="100%"/>
 
 ### 🚀 Bridging the unseen infrastructure with the intelligence of tomorrow.
 
