@@ -25,6 +25,12 @@ I build projects that operate in the real world, not just tutorials. My current 
 *   **Infrastructure:** Built a robust web dashboard and backend using **Next.js, Vercel, and Supabase** (PostgreSQL) for state management and user interaction.
 *   **Focus:** Emphasized error handling, autonomous recovery, and API rate-limit management.
 
+**IT Department AI Knowledge Base & Document Processor**
+*   **Engine:** Built an Intelligent RAG system leveraging **Supabase (pgvector)** and **Gemini 1.5 Flash** for high-speed document processing.
+*   **Innovation:** Designed an AI-driven "Noise-to-Action" layer that transforms disorganized documents and fragmented Teams chat exports into structured, concise technical documentation for IT staff.
+*   **Stack:** Deployed on **Vercel** as a full-stack solution, focusing on reducing information silos and improving internal troubleshooting speeds.
+*   **Result:** Converted raw technical "chatter" into high-fidelity knowledge base entries, saving hours of manual documentation.
+
 ---
 
 <div align="center">
