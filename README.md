@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Robert!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Software%20Engineer&descAlignY=51&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Robert!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20AI%20Integration%20Specialist&descAlignY=51&descAlign=62" width="100%"/>
 
-### 🚀 Software Engineer focused on Real-World AI Integration
+### 🚀 Network Engineer & Real-World AI Integration Specialist
 
-I'm an aspiring AI Developer and Software Engineer driven by a passion for creating intelligent, scalable applications. While I appreciate a good tech stack, **I care more about solving actual problems, writing clean/maintainable code, and delivering real value.**
+I'm a seasoned Data Network Engineer leveraging my deep infrastructure knowledge to build scalable, intelligent AI systems and applications. While I appreciate a solid network topology, **I am currently focused on integrating advanced Artificial Intelligence models to solve actual problems and automate complex processes.**
 
 🎓 **Incoming AI Diploma Student at PUC** (Pontificia Universidad Católica de Chile) - *Specializing in AI models, Ethics, and Audio/Video AI analysis.*
 
