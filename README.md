@@ -46,8 +46,12 @@ I build projects that operate in the real world, not just tutorials. My current 
 ---
 
 ### 🔎 What I'm looking for
-- ⚙️ **Opportunities** to contribute to meaningful AI projects as a Junior Software Engineer.
-- 🤝 **Teams** that value clean code, strong system architecture, and iterative product building.
+
+With **4 years of experience as a Senior IT Engineer at Hapag-Lloyd** (a top-tier global shipping multinational), I bring a proven track record of managing enterprise-scale infrastructure, collaborating across global teams, and handling mission-critical systems. 
+
+I am now looking to leverage this robust corporate engineering background into the AI space. I am seeking:
+- ⚙️ **AI Integration / Machine Learning Engineer roles** where I can bridge the gap between complex enterprise architecture and advanced AI solutions.
+- 🤝 **Forward-thinking multinational teams** that value scalable system design, rigorous execution, and the transformative power of MLOps and LLMs.
 
 <br/>
 
