@@ -63,10 +63,5 @@ I am now looking to leverage this robust corporate engineering background into t
 
 <div align="center">
 
-### 📊 GitHub Activity
-*Note: Most of my recent complex work is in private repositories for stealth projects, but I am actively coding every day.*
-
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=owervanz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) 
-![Top Langs](https://github.readme-stats.vercel.app/api/top-langs/?username=owervanz&layout=compact&theme=radical&hide_border=true)
 
 </div>
