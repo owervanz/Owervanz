@@ -9,7 +9,7 @@ I transitioned from routing packets across global networks to routing logic thro
 🎓 **Incoming AI Diploma Student at PUC** (Pontificia Universidad Católica de Chile)
 *Focusing on what the industry actually demands: **Transformers & LLMs** (GPT/BERT), **Deep Learning** (PyTorch), **Computer Vision**, and **API/Open-Source Deployment** for real-world solutions.*
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ERYS)
+
 
 </div>
 
