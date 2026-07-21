@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Robert!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20AI%20&%20Agentic%20Payments%20Builder&descAlignY=51&descAlign=62" width="100%"/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-mena-9309ab223/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roberto.mena.rodriguez@gmail.com)
+[![Live Project](https://img.shields.io/badge/toolrail.dev-4ade80?style=for-the-badge&logo=vercel&logoColor=black)](https://toolrail.dev)
+
 ### 🚀 Bridging the unseen infrastructure with the intelligence of tomorrow.
 
 I transitioned from routing packets across global networks, to routing logic through Neural Networks and LLMs, to building the payment rails autonomous AI agents use to transact. **I build autonomous, end-to-end systems** where solid backend architecture meets cutting-edge AI — and, most recently, blockchain payments.
