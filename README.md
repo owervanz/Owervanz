@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Robert!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20AI%20%20Specialist&descAlignY=51&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Robert!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20AI%20&%20Agentic%20Payments%20Builder&descAlignY=51&descAlign=62" width="100%"/>
 
 ### 🚀 Bridging the unseen infrastructure with the intelligence of tomorrow.
 
-I transitioned from routing packets across global networks to routing logic through Neural Networks and LLMs. **I build autonomous, end-to-end AI systems** where solid backend architecture meets cutting-edge machine learning.
+I transitioned from routing packets across global networks, to routing logic through Neural Networks and LLMs, to building the payment rails autonomous AI agents use to transact. **I build autonomous, end-to-end systems** where solid backend architecture meets cutting-edge AI — and, most recently, blockchain payments.
+
+🔭 **Currently building:** [Toolrail](https://toolrail.dev) — a live production API that AI agents pay for autonomously in USDC, no accounts, no API keys.
 
 🎓 **Incoming AI Diploma Student at PUC** (Pontificia Universidad Católica de Chile)
 *Focusing on what the industry actually demands: **Transformers & LLMs** (GPT/BERT), **Deep Learning** (PyTorch), **Computer Vision**, and **API/Open-Source Deployment** for real-world solutions.*
-
-
 
 </div>
 
@@ -57,6 +57,14 @@ I build projects that operate in the real world, not just tutorials. Here's what
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
 <img src="https://img.shields.io/badge/x402_Payments-000000?style=for-the-badge&logo=lightning&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=owervanz&hide_border=true" height="165"/>
 
 </div>
 
