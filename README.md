@@ -17,7 +17,15 @@ I transitioned from routing packets across global networks to routing logic thro
 
 ### 💻 Featured Engineering Work
 
-I build projects that operate in the real world, not just tutorials. My current main focus is:
+I build projects that operate in the real world, not just tutorials. Here's what I've shipped end-to-end:
+
+**Toolrail — Payment API for the AI Agent Economy** 🟢 *Live in production*
+🔗 [toolrail.dev](https://toolrail.dev) &nbsp;·&nbsp; [View Code](https://github.com/owervanz/toolrail-showcase) &nbsp;·&nbsp; [Read the Build Guide](https://toolrail.dev/guia?lang=en)
+*   **What:** An API that AI agents pay for **autonomously, in USDC, per request** — no accounts, no API keys. Built on **x402**, the payment protocol Coinbase shipped in 2026 (Visa, Mastercard, Google and Stripe joined its foundation the same year). 30 live endpoints, specializing in official Latin American financial and tax data that no other service in the ecosystem covers.
+*   **Payments:** Wired dual-network settlement (**Base + Solana** mainnet) through the Coinbase CDP facilitator, with automatic discovery-marketplace listing.
+*   **Data Engineering:** Live integrations with **6 central banks** plus the ECB and EU Commission, including defensive parsing for malformed legacy government APIs (a real bug I hit and documented).
+*   **Security:** Designed and executed **3 audit passes** — data integrity, adversarial, and infrastructure hardening (rate limiting, CSP, SSRF-safe PDF rendering, timing-safe auth) — backed by **59 automated tests** that gate every deploy.
+*   **Result:** Solo-built from architecture to payments to security to Docker deployment to trilingual documentation (ES/EN/PT), running live with real money changing hands.
 
 **Fully Automated AI YouTube Studio & Content Pipeline**
 *   **Architecture:** Designed a 24/7 daemonized pipeline in Python that autonomously generates, renders, and streams audio/video content.
@@ -46,6 +54,9 @@ I build projects that operate in the real world, not just tutorials. My current 
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
+<img src="https://img.shields.io/badge/x402_Payments-000000?style=for-the-badge&logo=lightning&logoColor=white" />
 
 </div>
 
@@ -58,6 +69,7 @@ With **4 years of experience as a Senior IT Engineer at Hapag-Lloyd** (a top-tie
 I am now looking to leverage this robust corporate engineering background into the AI space. I am seeking:
 - ⚙️ **AI Integration / Machine Learning Engineer roles** where I can bridge the gap between complex enterprise architecture and advanced AI solutions.
 - 🤝 **Forward-thinking multinational teams** that value scalable system design, rigorous execution, and the transformative power of MLOps and LLMs.
+- 💸 **Agentic commerce / blockchain payments** roles — I've shipped a live x402 payment API and enjoy the intersection of AI agents, infrastructure, and financial rails.
 
 <br/>
 
