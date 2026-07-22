@@ -27,8 +27,9 @@ I build projects that operate in the real world, not just tutorials. Here's what
 🔗 [toolrail.dev](https://toolrail.dev) &nbsp;·&nbsp; [View Code](https://github.com/owervanz/toolrail-showcase) &nbsp;·&nbsp; [Read the Build Guide](https://toolrail.dev/guia?lang=en)
 *   **What:** An API that AI agents pay for **autonomously, in USDC, per request** — no accounts, no API keys. Built on **x402**, the payment protocol Coinbase shipped in 2026 (Visa, Mastercard, Google and Stripe joined its foundation the same year). 30 live endpoints, specializing in official Latin American financial and tax data that no other service in the ecosystem covers.
 *   **Payments:** Wired dual-network settlement (**Base + Solana** mainnet) through the Coinbase CDP facilitator, with automatic discovery-marketplace listing.
+*   **Distribution:** Two channels, one source of truth — the paid x402 API for agents with a wallet, plus a free **MCP server** (27 tools, rate-limited) for wallet-less clients like Claude Desktop and Cursor, both calling the exact same handler functions with zero logic duplication.
 *   **Data Engineering:** Live integrations with **6 central banks** plus the ECB and EU Commission, including defensive parsing for malformed legacy government APIs (a real bug I hit and documented).
-*   **Security:** Designed and executed **3 audit passes** — data integrity, adversarial, and infrastructure hardening (rate limiting, CSP, SSRF-safe PDF rendering, timing-safe auth) — backed by **59 automated tests** that gate every deploy.
+*   **Security:** Designed and executed **3 audit passes** — data integrity, adversarial, and infrastructure hardening (rate limiting, CSP, SSRF-safe PDF rendering, timing-safe auth) — backed by **64 automated tests** that gate every deploy.
 *   **Result:** Solo-built from architecture to payments to security to Docker deployment to trilingual documentation (ES/EN/PT), running live with real money changing hands.
 
 **Fully Automated AI YouTube Studio & Content Pipeline**
